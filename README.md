@@ -817,3 +817,7 @@ Springでは、```@Autowired```を付けるとプログラマがリポジトリ�
 ## 完成！
 
 ### お疲れ様でした。これで日記アプリが完成しました。実際に動かしてみて確認してみましょう！
+
+------------------------
+
+- 参考にさせていただいたサイト[Spring Boot2で日記投稿ウェブアプリ開発入門](https://it-jog.com/java/springbootdiaryweb/sbdiarywebmap)
