@@ -7,6 +7,7 @@
 - Spring Boot 3.1.1
 - [MySQL(MariaDB) - 10.11.3](https://mariadb.com/kb/en/mariadb-10-11-3-release-notes/)
 - [MySQL Workbench - 8.0.33](https://dev.mysql.com/downloads/workbench/)
+- [diary.zip](./diary.zip)
 
 ## 日記投稿Webアプリ作成
 
